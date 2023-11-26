@@ -11,4 +11,4 @@ Key: Halifax
 Metadata file pdf thu được author là tên của thủ phạm  
 ![image](https://github.com/thieptrans/RingZero/assets/118431215/f5ece38d-2f78-4e65-9d0f-f39f472020aa)  
 
-
+Flag: HalifaxSteveFinger
